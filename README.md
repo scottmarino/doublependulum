@@ -1,5 +1,5 @@
 # Symplectic Double Pendulum Simulator
-Double pendulum simulator using a symplectic Euler's method and Hamiltonian mechanics. The program calculates the momentum and position of each ball using Hamiltonian formulations, and uses those calculations to adjust the pendulum's course. This provides a double pendulum that stays stable and more analagous to real-life for longer periods of time, without the need of more complex math/animation modules. 
+Double pendulum simulator using a symplectic Euler's method. The program calculates the momentum and position of each ball using Hamiltonian formulations, and uses those calculations to adjust the pendulum's course. This provides a double pendulum that stays stable and more analagous to real-life for longer periods of time, without the need of more complex math/animation modules. Mathematical methods provided in attatched PDF. 
 
 <p align="center">
 <img width="400" alt="Screen Shot 2022-01-11 at 4 01 07 PM" src="https://user-images.githubusercontent.com/50428986/149040320-1d5251a4-438f-45db-9f3f-0a44928e3f00.png">
